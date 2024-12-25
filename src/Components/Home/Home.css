@@ -1,0 +1,37 @@
+.nav_container{
+    background-color: rgb(117, 116, 116);
+}
+
+.navigation {
+    display: flex;
+    justify-content: end;
+    padding: 1rem 1rem 1rem 0;
+    color: white;
+}
+
+.home {
+    text-align: center;
+}
+
+.container_user {
+    display: flex;
+    justify-content: center;
+}
+
+.user_info{
+    margin-top: 2rem;
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.user_info a{
+   margin-bottom: 1rem;
+}
+
+.user_info a:hover{
+    text-decoration: underline;
+}
+

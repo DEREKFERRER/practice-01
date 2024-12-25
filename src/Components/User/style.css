@@ -1,0 +1,10 @@
+.container_user{
+    margin: 0 auto;
+    width: 70%;
+}
+
+.user_info {
+    text-align: center;
+    border: 1px solid black;
+    padding: 1rem;
+}

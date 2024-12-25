@@ -1,0 +1,30 @@
+.edit_info {
+    padding: 0;
+}
+
+.date {
+    padding: .4rem;
+    border-radius: 0;
+    border: 0;
+    width: 50%;
+}
+
+.motto {
+    padding: .4rem;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.saveBtn {
+    background-color: rgb(57, 142, 216);
+    padding: .7rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.back_btn {
+    display: flex;
+    justify-content: end;
+}
