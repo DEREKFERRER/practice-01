@@ -5,4 +5,6 @@ React.Js
 React-hook-form
 CSS
 HTML
+Express.Js
+PostgreSQL
 
